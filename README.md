@@ -1,3 +1,14 @@
+# Quiz App
+ Quiz App - A simple app written in react native for Quiz .It consist of some question.Based on the correct answer,user awarded with some points.
+ 
+
+<br>   
+<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.43.30.png" width="200" height="400" ><br>
+<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.43.42.png" width="200" height="400" ><br>
+<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.44.01.png" width="200" height="400" ><br>
+<br>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -79,11 +90,6 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-#Quiz App
-<br>   
-<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.43.30.png" width="200" height="400" ><br>
-<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.43.42.png" width="200" height="400" ><br>
-<img src = "https://github.com/mksmanish/QuizAnswer/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-16%20at%2023.44.01.png" width="200" height="400" ><br>
-<br>
+
    
 
